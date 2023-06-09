@@ -13,4 +13,7 @@ Bu repo [Patika.dev](https://www.patika.dev) Allianz GeleceğimAll Meslek Edindi
 $ git clone https://github.com/KazimAhmetUzun/kodluyoruzilkrepo.git
 ```
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
+
+## KODLUYORUZ
+[Patika.dev](https://www.patika.dev/tr)
